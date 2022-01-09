@@ -1,5 +1,5 @@
 {
-	"name": "cra-template-reina",
+	"name": "@rclarkem/cra-template-reina",
 	"version": "1.0.6",
 	"keywords": [
 		"react",
@@ -13,7 +13,7 @@
 		"node": ">=14"
 	},
 	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/rclarkem"
+		"registry": "https://npm.pkg.github.com/@rclarkem"
 	},
 	"repository": {
 		"type": "git",
