@@ -1,6 +1,6 @@
 {
-	"name": "@rclarkem/cra-template-reina-test",
-	"version": "1.0.1",
+	"name": "cra-template-reina-test",
+	"version": "1.0.2",
 	"keywords": [
 		"react",
 		"create-react-app",
