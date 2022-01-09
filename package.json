@@ -15,6 +15,10 @@
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com/@rclarkem"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:rclarkem/template-upload-test.git"
+	},
 	"bugs": {
 		"url": "https://github.com/facebook/create-react-app/issues"
 	},
