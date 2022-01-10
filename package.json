@@ -1,6 +1,6 @@
 {
 	"name": "@rclarkem/cra-template-reina",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"keywords": [
 		"react",
 		"create-react-app",
@@ -13,11 +13,11 @@
 		"node": ">=14"
 	},
 	"publishConfig": {
-		"access": "public"
+		"registry": "https://npm.pkg.github.com/@rclarkem"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/rclarkem/template-upload-test.git"
+		"url": "git@github.com:rclarkem/template-upload-test.git"
 	},
 	"bugs": {
 		"url": "https://github.com/facebook/create-react-app/issues"
